@@ -1,6 +1,6 @@
 # Active Rear Automotice Spoiler Control Based on Reinforcement Learning
 
-Algorithms were implemented in a Robotic handmade designed, with an onboard Raspberry4 computer.
+Algorithms were implemented in a Robotic handmade designed 4 wheel vehicle, with an onboard Raspberry4 computer, and a 3D printed rear spoiler.
 
 Active spoiler controlled with Deep Q-network with the objective of  reducing  the lateral acceleration felt by the car in curves. 
 
